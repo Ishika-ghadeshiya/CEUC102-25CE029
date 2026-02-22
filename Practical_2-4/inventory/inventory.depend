@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1771740708 source:e:\sem2\practical 2\practical_2-4\inventory\main.cpp
+	<iostream>
+	"inventory.h"
+
+1771740539 e:\sem2\practical 2\practical_2-4\inventory\include\inventory.h
+	<iostream>
+	<string>
+
