@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1771738306 source:e:\sem2\practical 2\practical_2-5\main.cpp
+	<iostream>
+	"loan.h"
+
+1771738583 e:\sem2\practical 2\practical_2-5\include\loan.h
+	<string.h>
+	<iostream>
+	<math.h>
+
+1771738296 source:e:\sem2\practical 2\practical_2-5\src\loan.cpp
+	"loan.h"
+	<iostream>
+
