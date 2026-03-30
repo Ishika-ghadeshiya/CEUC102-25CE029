@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-   // cout << "Hello world!" << endl;
+  
     empsalary* s;
     empsalary* eh = NULL;
 empsalary* p;
