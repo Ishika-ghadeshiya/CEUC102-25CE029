@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1774866821 source:e:\sem2\practical_3-3\practical_3-3\main.cpp
+	<iostream>
+	"account.h"
+
+1774866298 e:\sem2\practical_3-3\practical_3-3\include\account.h
+
+1774866802 source:e:\sem2\practical_3-3\practical_3-3\src\account.cpp
+	<iostream>
+	"Account.h"
+
