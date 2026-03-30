@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1774864250 source:e:\sem2\practical_3-1\practical_3-1\main.cpp
+	<iostream>
+	"empsalary.h"
+
+1774864250 e:\sem2\practical_3-1\practical_3-1\empsalary.h
+
+1774864272 source:e:\sem2\practical_3-1\practical_3-1\src\empsalary.cpp
+	"empsalary.h"
+	<iostream>
+
