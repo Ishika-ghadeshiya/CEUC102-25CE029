@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1777216350 source:e:\sem2\practical_5-2\main.cpp
+	"FileCounter.h"
+
+1777216350 e:\sem2\practical_5-2\include\filecounter.h
+	<iostream>
+	<fstream>
+	<string>
+
+1777216350 source:e:\sem2\practical_5-2\src\filecounter.cpp
+	"FileCounter.h"
+
