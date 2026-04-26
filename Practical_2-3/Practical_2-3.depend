@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1777187036 source:e:\sem2\practical_2-3\practical_2-3\main.cpp
+	<iostream>
+	"details.h"
+
+1777187036 e:\sem2\practical_2-3\practical_2-3\include\details.h
+	<iostream>
+	<string>
+
