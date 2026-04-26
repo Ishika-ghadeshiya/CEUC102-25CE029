@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1777223329 source:e:\sem2\practical_7-6\main.cpp
+	<iostream>
+	"base.h"
+
+1777223336 e:\sem2\practical_7-6\include\base.h
+
+1777223329 source:e:\sem2\practical_7-6\src\base.cpp
+	"base.h"
+	<iostream>
+
