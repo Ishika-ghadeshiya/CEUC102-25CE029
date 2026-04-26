@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1777221798 source:e:\sem2\practical_1-2\main.cpp
+	<iostream>
+	"lib.h"
+
+1777221798 e:\sem2\practical_1-2\include\lib.h
+
