@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1777215384 source:e:\sem2\practical_9-3\main.cpp
+	"SetOps.h"
+
+1777215384 e:\sem2\practical_9-3\include\setops.h
+	<iostream>
+	<vector>
+	<set>
+
+1777215384 source:e:\sem2\practical_9-3\src\setops.cpp
+	"SetOps.h"
+
