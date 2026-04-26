@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1777225057 source:e:\sem2\practical_6-3\src\car.cpp
+	"Car.h"
+
+1777225057 e:\sem2\practical_6-3\include\car.h
+	<iostream>
+	<string>
+
